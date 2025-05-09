@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Playwright 🧪**
 
-- 📄 Know about my experiences [https://malinovic.ch](https://malinovic.ch)
+- 📄 Learn about my experiences [https://malinovic.ch](https://malinovic.ch)
 
 - ⚡ Fun fact **I like muay thai, dancing and reading. Weird combination. ^^**
 
